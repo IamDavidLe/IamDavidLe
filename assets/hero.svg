@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 384" role="img" aria-labelledby="title description" shape-rendering="crispEdges">
+  <title id="title">Phat Le — software engineer</title>
+  <desc id="description">A pixel-art scene of a developer at a desk in San Francisco.</desc>
+  <style>
+    .cloud{animation:drift 50s linear infinite}.bird{animation:fly 7s steps(8) infinite}.cursor{animation:blink 1s step-end infinite}.steam{animation:rise 3s ease-in infinite}@keyframes drift{to{transform:translateX(110px)}}@keyframes fly{50%{transform:translate(16px,-8px)}}@keyframes blink{50%{opacity:0}}@keyframes rise{to{transform:translate(-5px,-28px);opacity:0}}
+  </style>
+  <defs>
+    <pattern id="grass" width="24" height="24" patternUnits="userSpaceOnUse"><rect width="24" height="24" fill="#6DB33F"/><path fill="#4E9A3A" d="M0 0h8v8H0zm16 8h8v8h-8zM8 16h8v8H8z"/><path fill="#8CC63F" d="M8 0h8v8H8zM0 16h8v8H0z"/></pattern>
+    <pattern id="stone" width="24" height="24" patternUnits="userSpaceOnUse"><rect width="24" height="24" fill="#858585"/><path fill="#9A9A9A" d="M0 0h10v8H0zm12 8h12v8H12zM3 17h9v7H3z"/><path fill="#6E6E6E" d="M10 0h2v8h-2zM0 8h12v2H0zm12 16h12v-2H12z"/></pattern>
+    <pattern id="wood" width="24" height="24" patternUnits="userSpaceOnUse"><rect width="24" height="24" fill="#B0834A"/><path fill="#8A6336" d="M0 0h24v3H0zm0 12h24v3H0z"/><path fill="#C99A5B" d="M3 3h3v9H3zm12 0h3v9h-3zM9 15h3v9H9z"/></pattern>
+    <linearGradient id="sky" x2="0" y2="1"><stop stop-color="#7FB8F0"/><stop offset="1" stop-color="#DDEBF6"/></linearGradient>
+  </defs>
+  <rect width="960" height="384" fill="url(#sky)"/>
+  <g class="cloud" fill="#fff"><path d="M40 78h142v22H40zM66 56h72v22H66zM652 102h166v24H652zM690 78h82v24H690z" opacity=".92"/></g>
+  <path fill="#B7D3C0" d="M0 244h80v-22h56v-32h72v50h52v-20h58v24h60v-43h66v43h72v-30h68v30h62v-48h78v48h70v140H0z"/>
+  <path fill="#98C2A2" d="M0 266h70v-20h58v20h70v-42h66v42h68v-27h54v27h74v-34h90v34h84v-26h78v26h88v118H0z"/>
+  <rect y="310" width="960" height="30" fill="url(#grass)"/><rect y="340" width="960" height="44" fill="#8B5A2B"/><path fill="#6B4423" d="M0 362h960v12H0z"/>
+  <g transform="translate(86 232)"><rect x="0" y="0" width="132" height="78" fill="url(#wood)"/><path fill="#45301E" d="M-18 0h168v-16h-18v-16h-24v-16H24v16H0v16h-18z"/><rect x="51" y="31" width="28" height="47" fill="#4A3320"/><rect x="22" y="28" width="19" height="19" fill="#8DC2F5" stroke="#262626" stroke-width="5"/><rect x="95" y="28" width="19" height="19" fill="#8DC2F5" stroke="#262626" stroke-width="5"/></g>
+  <g transform="translate(706 180)"><rect width="150" height="130" fill="url(#stone)"/><path fill="#6E6E6E" d="M-20 0h190v-16h-18v-16h-132v16h-20z"/><rect x="58" y="76" width="34" height="54" fill="#4A3320"/><path fill="#EDEDED" d="M20 26h15v104H20zm33 0h15v104H53zm49 0h15v104h-15z"/><path fill="#5F6368" d="M74-54h5v22h-5z"/><path fill="#C8352B" d="M79-54h42v14H79z"/></g>
+  <g transform="translate(422 238)"><rect width="153" height="72" fill="#262626"/><rect x="7" y="7" width="139" height="58" fill="#152841"/><path fill="#55FFFF" d="M21 22h42v7H21zm0 14h79v7H21zm0 14h61v7H21z"/><path class="cursor" fill="#FFFF55" d="M108 50h8v8h-8z"/><rect x="56" y="72" width="40" height="12" fill="#373737"/><rect x="40" y="84" width="72" height="8" fill="#262626"/><rect x="-12" y="92" width="177" height="13" fill="#6B4423"/><rect x="-8" y="105" width="16" height="51" fill="#4A3320"/><rect x="146" y="105" width="16" height="51" fill="#4A3320"/>
+    <path fill="#2F6A31" d="M28 106h34v20H28zM19 126h52v41H19z"/><path fill="#E0B08A" d="M36 99h19v16H36z"/><path fill="#4A3320" d="M32 94h28v13H32z"/><path fill="#2A3A5A" d="M23 164h19v24H23zm30 0h19v24H53z"/>
+    <path class="steam" fill="#F4F1DE" d="M124 90h6v-12h-6zm8-12h6V66h-6z" opacity=".8"/><path fill="#F2F2F2" d="M118 92h22v17h-22z"/><path fill="#C8352B" d="M118 92h22v4h-22z"/>
+  </g>
+  <g class="bird" transform="translate(315 122)"><path fill="#262626" d="M0 12h18V5h11v7h12v7H29v5H18v-5H0z"/><path fill="#F2A33A" d="M41 12h8v6h-8z"/></g>
+  <g font-family="monospace" font-weight="900" text-anchor="middle"><text x="480" y="100" font-size="108" fill="#262626" stroke="#262626" stroke-width="14" paint-order="stroke">PHAT LE</text><text x="480" y="100" font-size="108" fill="#DCDCDC" stroke="#858585" stroke-width="3" paint-order="stroke">PHAT LE</text><text x="480" y="140" font-size="24" fill="#FFFF55" stroke="#3F3F15" stroke-width="3" paint-order="stroke">BUILDING THE NEXT COMMIT</text><text x="480" y="169" font-size="18" fill="#FFFFFF" stroke="#2C4A6B" stroke-width="3" paint-order="stroke">software engineering · problem solving · continuous learning</text></g>
+</svg>
