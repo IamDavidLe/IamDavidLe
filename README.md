@@ -6,9 +6,9 @@
 
 <div align="center">
 
-<img src="assets/hero.svg" width="100%" alt="Phat Le's pixel-art developer profile: a developer's desk, Python code and the San Francisco skyline">
+<img src="assets/hero.svg" width="100%" alt="David Le's pixel-art developer profile: a developer's desk, machine-learning research, and the San Francisco skyline">
 
-### Software engineer in San Francisco.<br>Building a strong foundation, one problem at a time.
+### Computer science student and undergraduate researcher in San Francisco.<br>Building secure, thoughtful systems one project at a time.
 
 <a href="https://www.linkedin.com/in/legiaphat"><img src="assets/buttons/linkedin.svg" height="40" alt="LinkedIn"></a>
 <a href="https://leetcode.com/u/JiaPark/"><img src="assets/buttons/leetcode.svg" height="40" alt="LeetCode"></a>
@@ -18,7 +18,7 @@
 <br><br>
 
 <a href="https://github.com/IamDavidLe?tab=repositories"><img src="https://img.shields.io/badge/GitHub-IamDavidLe-6DB33F?style=for-the-badge&labelColor=262626&logo=github&logoColor=white" alt="GitHub profile"></a>
-<a href="https://www.linkedin.com/in/legiaphat"><img src="https://img.shields.io/badge/LinkedIn-Phat%20Le-3D7CC9?style=for-the-badge&labelColor=262626&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/legiaphat"><img src="https://img.shields.io/badge/LinkedIn-David%20Le-3D7CC9?style=for-the-badge&labelColor=262626&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://leetcode.com/u/JiaPark/"><img src="https://img.shields.io/badge/LeetCode-JiaPark-F2C230?style=for-the-badge&labelColor=262626&logo=leetcode&logoColor=262626" alt="LeetCode"></a>
 <img src="https://img.shields.io/badge/location-San%20Francisco-C8352B?style=for-the-badge&labelColor=262626&logo=googlemaps&logoColor=white" alt="San Francisco">
 
@@ -33,7 +33,7 @@
 <br>
 
 > [!NOTE]
-> I’m **Phat Le**, a software engineer based in San Francisco. I use this space to document my progress, practice problem-solving, and turn what I learn into clear, maintainable code.
+> I’m **David Le**, a B.S. student in Computer Science, Statistics, and Machine Learning at San Francisco Bay University. I’m an undergraduate researcher exploring vision-language model security and unlearning, and I use this space to document the work I build and learn from.
 
 <details>
 <summary><b>📜 Table of contents</b></summary>
@@ -56,22 +56,22 @@ I’m focused on growing into the kind of engineer teammates can rely on: curiou
 
 <table>
 <tr>
-<th width="50%">😩 The problem I enjoy</th>
-<th width="50%">😎 How I approach it</th>
+<th width="50%">🔬 Current research</th>
+<th width="50%">🛠️ Engineering approach</th>
 </tr>
 <tr>
 <td>
 
-- A question that looks simple but has edge cases
-- A solution that works, but is hard to explain
-- A new concept that needs patient practice
+- Vision-language model security and unlearning
+- Vision Transformer intermediate representations
+- Biometric and adversarial-patch information in visual models
 
 </td>
 <td>
 
-- Break it into small, testable steps
-- Prefer readable code over clever shortcuts
-- Document the lesson and improve on the next pass
+- Extract and analyze model representations with PyTorch
+- Prototype, test, troubleshoot, and improve iteratively
+- Prefer readable, maintainable implementations
 
 </td>
 </tr>
@@ -97,6 +97,18 @@ I’m focused on growing into the kind of engineer teammates can rely on: curiou
 <a href="https://github.com/IamDavidLe/Leetcode_problem">Explore the repository →</a>
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+<img src="assets/icons/checks.svg" width="48" alt=""><br>
+<b>Vision-language model security &amp; unlearning</b> · <code>PyTorch</code><br>
+<sub>Undergraduate research investigating how sensitive visual information is represented across transformer-based vision models.</sub>
+</td>
+<td width="50%" valign="top">
+<img src="assets/icons/places.svg" width="48" alt=""><br>
+<b>Solar-powered vehicle</b> · <code>Arduino/C++</code><br>
+<sub>Designed, programmed, tested, and debugged a solar-powered vehicle with sensors, motor control, and electrical systems.</sub>
+</td>
+</tr>
 </table>
 
 <img src="assets/divider.svg" width="100%" alt="">
@@ -110,7 +122,7 @@ I’m focused on growing into the kind of engineer teammates can rely on: curiou
 
 </div>
 
-I’m currently investing in the fundamentals that compound: Python fluency, data structures and algorithms, clear solution explanations, and regular version-controlled practice.
+I’m currently strengthening the fundamentals that compound: Python, C++, SQL, data structures and algorithms, while applying PyTorch and transformer-based vision models in undergraduate research.
 
 <img src="assets/divider.svg" width="100%" alt="">
 
@@ -119,9 +131,11 @@ I’m currently investing in the fundamentals that compound: Python fluency, dat
 
 | Slot | Item | What it supports |
 | --- | --- | --- |
-| 🐍 | **Python** | Practice implementations and problem solving |
-| 🧩 | **Data structures & algorithms** | Better decomposition and efficient solutions |
-| 🧰 | **GitHub** | Public learning log and version control |
+| 🐍 | **Python, C++, Arduino/C++, SQL** | Core programming, embedded development, and data work |
+| 🧩 | **Data structures, algorithms, OOP** | Clear decomposition and efficient, maintainable solutions |
+| 🧠 | **PyTorch, TensorFlow, scikit-learn** | Machine-learning and vision-model experimentation |
+| 📊 | **NumPy, Pandas, Matplotlib** | Data analysis, manipulation, and visualization |
+| 🧰 | **Git, GitHub, VS Code** | Version control, collaboration, and daily development |
 | 📖 | **NeetCode & LeetCode** | Deliberate, repeatable technical practice |
 
 <img src="assets/divider.svg" width="100%" alt="">

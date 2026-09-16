@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 384" role="img" aria-labelledby="title description" shape-rendering="crispEdges">
-  <title id="title">Phat Le — software engineer</title>
+  <title id="title">David Le — computer science student and undergraduate researcher</title>
   <desc id="description">A pixel-art scene of a developer at a desk in San Francisco.</desc>
   <style>
     .cloud{animation:drift 50s linear infinite}.bird{animation:fly 7s steps(8) infinite}.cursor{animation:blink 1s step-end infinite}.steam{animation:rise 3s ease-in infinite}@keyframes drift{to{transform:translateX(110px)}}@keyframes fly{50%{transform:translate(16px,-8px)}}@keyframes blink{50%{opacity:0}}@keyframes rise{to{transform:translate(-5px,-28px);opacity:0}}
@@ -22,5 +22,5 @@
     <path class="steam" fill="#F4F1DE" d="M124 90h6v-12h-6zm8-12h6V66h-6z" opacity=".8"/><path fill="#F2F2F2" d="M118 92h22v17h-22z"/><path fill="#C8352B" d="M118 92h22v4h-22z"/>
   </g>
   <g class="bird" transform="translate(315 122)"><path fill="#262626" d="M0 12h18V5h11v7h12v7H29v5H18v-5H0z"/><path fill="#F2A33A" d="M41 12h8v6h-8z"/></g>
-  <g font-family="monospace" font-weight="900" text-anchor="middle"><text x="480" y="100" font-size="108" fill="#262626" stroke="#262626" stroke-width="14" paint-order="stroke">PHAT LE</text><text x="480" y="100" font-size="108" fill="#DCDCDC" stroke="#858585" stroke-width="3" paint-order="stroke">PHAT LE</text><text x="480" y="140" font-size="24" fill="#FFFF55" stroke="#3F3F15" stroke-width="3" paint-order="stroke">BUILDING THE NEXT COMMIT</text><text x="480" y="169" font-size="18" fill="#FFFFFF" stroke="#2C4A6B" stroke-width="3" paint-order="stroke">software engineering · problem solving · continuous learning</text></g>
+  <g font-family="monospace" font-weight="900" text-anchor="middle"><text x="480" y="100" font-size="108" fill="#262626" stroke="#262626" stroke-width="14" paint-order="stroke">DAVID LE</text><text x="480" y="100" font-size="108" fill="#DCDCDC" stroke="#858585" stroke-width="3" paint-order="stroke">DAVID LE</text><text x="480" y="140" font-size="24" fill="#FFFF55" stroke="#3F3F15" stroke-width="3" paint-order="stroke">BUILDING THE NEXT COMMIT</text><text x="480" y="169" font-size="18" fill="#FFFFFF" stroke="#2C4A6B" stroke-width="3" paint-order="stroke">machine learning · security research · engineering</text></g>
 </svg>
