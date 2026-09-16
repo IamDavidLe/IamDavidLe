@@ -12,8 +12,8 @@
 
 <a href="https://www.linkedin.com/in/legiaphat"><img src="assets/buttons/linkedin.svg" height="40" alt="LinkedIn"></a>
 <a href="https://leetcode.com/u/JiaPark/"><img src="assets/buttons/leetcode.svg" height="40" alt="LeetCode"></a>
-<a href="#projects"><img src="assets/buttons/projects.svg" height="40" alt="Projects"></a>
-<a href="#now"><img src="assets/buttons/now.svg" height="40" alt="What I'm learning"></a>
+<a href="#inventory"><img src="assets/buttons/projects.svg" height="40" alt="Projects"></a>
+<a href="#quest-log"><img src="assets/buttons/now.svg" height="40" alt="What I'm learning"></a>
 
 <br><br>
 
@@ -26,7 +26,7 @@
 
 <img src="assets/inventory.svg" width="720" alt="An animated inventory showcasing Python, algorithms, problem-solving, GitHub and continuous learning">
 
-<sub>▲ My current loadout: learn deeply, solve deliberately, and ship the next improvement.</sub>
+<sub>▲ My hotbar: research, machine learning, systems, algorithms, tools, practice, stats, and ways to connect.</sub>
 
 </div>
 
@@ -42,17 +42,18 @@
 
 | | | |
 | --- | --- | --- |
-| 🟩 [About me](#about-me) | 🎒 [Projects](#projects) | ⛏️ [Now](#now) |
-| 🧰 [Toolbox](#toolbox) | 🧭 [Find me](#find-me) | 📚 [Learning log](#learning-log) |
+| 🌲 [Spawn point](#spawn-point) | 🎒 [Inventory](#inventory) | ⚒️ [Crafting table](#crafting-table) |
+| 🧰 [Tech stack](#tech-stack) | 🟩 [Quest log](#quest-log) | 📊 [LeetCode stats](#leetcode-stats) |
+| 🧭 [Connect](#connect) |  |  |
 
 </details>
 
 <img src="assets/divider.svg" width="100%" alt="">
 
-<a id="about-me"></a>
-## 🟩 About me
+<a id="spawn-point"></a>
+## 🌲 Spawn point
 
-I’m focused on growing into the kind of engineer teammates can rely on: curious about the details, thoughtful about trade-offs, and consistent about learning in public.
+I’m a computer science student and undergraduate researcher focused on machine learning, model security, and practical software engineering. I like difficult problems that reward careful investigation, clear implementation, and iteration.
 
 <table>
 <tr>
@@ -79,8 +80,10 @@ I’m focused on growing into the kind of engineer teammates can rely on: curiou
 
 <img src="assets/divider.svg" width="100%" alt="">
 
-<a id="projects"></a>
-## 🎒 Projects
+<a id="inventory"></a>
+## 🎒 Inventory
+
+> A few items currently in my chest: public problem-solving work, applied research, and hands-on engineering projects.
 
 <table>
 <tr>
@@ -113,8 +116,26 @@ I’m focused on growing into the kind of engineer teammates can rely on: curiou
 
 <img src="assets/divider.svg" width="100%" alt="">
 
-<a id="now"></a>
-## ⛏️ Now
+<a id="crafting-table"></a>
+## ⚒️ Crafting table
+
+<table>
+<tr>
+<th width="33%">🪵 Explore</th>
+<th width="33%">🧱 Build</th>
+<th width="33%">⚙️ Improve</th>
+</tr>
+<tr>
+<td valign="top"><sub>Start with the model, the data, and the question that needs an answer.</sub></td>
+<td valign="top"><sub>Write small, readable implementations that make the reasoning visible.</sub></td>
+<td valign="top"><sub>Test, troubleshoot, and document what the next iteration should do better.</sub></td>
+</tr>
+</table>
+
+<img src="assets/divider.svg" width="100%" alt="">
+
+<a id="quest-log"></a>
+## 🟩 Quest log
 
 <div align="center">
 
@@ -126,8 +147,8 @@ I’m currently strengthening the fundamentals that compound: Python, C++, SQL, 
 
 <img src="assets/divider.svg" width="100%" alt="">
 
-<a id="toolbox"></a>
-## 🧰 Toolbox
+<a id="tech-stack"></a>
+## 🧰 Tech stack · My tools
 
 | Slot | Item | What it supports |
 | --- | --- | --- |
@@ -140,8 +161,21 @@ I’m currently strengthening the fundamentals that compound: Python, C++, SQL, 
 
 <img src="assets/divider.svg" width="100%" alt="">
 
-<a id="find-me"></a>
-## 🧭 Find me
+<a id="leetcode-stats"></a>
+## 📊 LeetCode stats
+
+<div align="center">
+
+<a href="https://leetcode.com/u/JiaPark/"><img src="https://leetcard.jacoblin.cool/JiaPark?theme=forest&amp;font=Fira%20Code&amp;ext=heatmap" width="100%" alt="JiaPark's live LeetCode problem-solving statistics and 52-week contribution heatmap"></a>
+
+<sub>Live problem-solving totals and 52-week submission activity, sourced from my LeetCode profile.</sub>
+
+</div>
+
+<img src="assets/divider.svg" width="100%" alt="">
+
+<a id="connect"></a>
+## 🧭 Connect
 
 <div align="center">
 
@@ -150,20 +184,6 @@ I’m currently strengthening the fundamentals that compound: Python, C++, SQL, 
 <a href="https://github.com/IamDavidLe"><img src="assets/buttons/github.svg" height="40" alt="See my GitHub"></a>
 
 </div>
-
-<img src="assets/divider.svg" width="100%" alt="">
-
-<a id="learning-log"></a>
-## 📚 Learning log
-
-<details>
-<summary><b>What I’m optimizing for</b></summary>
-
-<br>
-
-I care about steady, visible progress: understanding why a solution works, communicating it simply, and building a portfolio that shows the work behind the outcome.
-
-</details>
 
 <div align="center">
 
