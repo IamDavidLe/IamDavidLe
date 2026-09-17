@@ -38,13 +38,13 @@ I am seeking software engineering internship opportunities where I can contribut
 
 </div>
 
-## LeetCode Activity
+## 📈 Stats — 2026
 
 <div align="center">
 
-<a href="https://leetcode.com/u/JiaPark/"><img src="https://leetcard.jacoblin.cool/JiaPark?theme=forest&amp;font=Fira%20Code&amp;ext=heatmap" width="100%" alt="JiaPark's live LeetCode solved-problem stats and 52-week contribution heatmap"></a>
+<a href="https://leetcode.com/u/JiaPark/"><img src="https://leetcard.jacoblin.cool/JiaPark?theme=dark&amp;font=Fira%20Code&amp;ext=heatmap" width="100%" alt="JiaPark's live LeetCode solved-problem stats and 52-week contribution heatmap"></a>
 
-<sub>Live solved-problem statistics and a 52-week submission heatmap.</sub>
+<sub>Live solved-problem statistics, difficulty breakdown, ranking, and 52-week contribution heatmap.</sub>
 
 </div>
 
